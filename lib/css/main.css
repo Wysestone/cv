@@ -1,28 +1,12 @@
 body{
 	background-color:black;
-	font-family:verdana;
+	font-family:'Times New Roman';
+	color:forestgreen;
+	margin: 50px;	
 }
-h1, h2, h3 {
-	color:limegreen;
-	font-family:verdana;
+a:link{
+	color:#00b300;
 }
-table{
-	color:chartreuse;
-	font-family:verdana;
-}
-ul{
-	color:chartreuse;
-	font-family:verdana;
-}
-ol{
-	color:chartreuse;
-	font-family:verdana;
-}
-label{
-	color:chartreuse;
-	font-family:verdana;
-}
-p{
-	color:chartreuse;
-	font-family:verdana;
+a:visited{
+	color:forestgreen;
 }
