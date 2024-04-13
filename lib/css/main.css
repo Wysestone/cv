@@ -1,0 +1,28 @@
+body{
+	background-color:black;
+	font-family:verdana;
+}
+h1, h2, h3 {
+	color:limegreen;
+	font-family:verdana;
+}
+table{
+	color:chartreuse;
+	font-family:verdana;
+}
+ul{
+	color:chartreuse;
+	font-family:verdana;
+}
+ol{
+	color:chartreuse;
+	font-family:verdana;
+}
+label{
+	color:chartreuse;
+	font-family:verdana;
+}
+p{
+	color:chartreuse;
+	font-family:verdana;
+}
